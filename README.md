@@ -8,4 +8,4 @@ https://elencho.github.io/Rock-Paper-Scissors/
 ## instalation
 install packagesand run it
 
-**Start playing with computer and have fun!
+### Start playing with computer and have fun!
